@@ -1,0 +1,25 @@
+{
+  "name": "ts-jest-preset-transform",
+  "version": "1.0.0",
+  "description": "preset と transform の違いを知る",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/ts-jest-preset-transform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/ts-jest-preset-transform/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/ts-jest-preset-transform#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.3"
+  }
+}
